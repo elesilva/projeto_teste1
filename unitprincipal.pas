@@ -10,6 +10,7 @@ type
   TForm1 = class(TForm)
     Button1: TButton;
     editNome: TEdit;
+    Button2: TButton;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
